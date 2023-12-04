@@ -1,0 +1,11 @@
+device_id,alert_type,alert_message
+1234,warning,Low battery
+5678,critical,Device not responding
+9101,info,Device connected
+1121,warning,Storage almost full
+1314,critical,Device overheating
+1516,info,Software update available
+1718,warning,Low signal strength
+1920,critical,Hardware malfunction
+2122,info,Device disconnected
+2324,warning,Battery fully charged
