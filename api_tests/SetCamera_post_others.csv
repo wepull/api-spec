@@ -1,0 +1,11 @@
+jetson_id,timestamp,action,URL
+autem,2021-12-01 09:08:43,POST,http://0.0.0.0:4010/SetCamera
+dolor,2021-12-02 10:13:23,GET,http://0.0.0.0:4010/GetCamera
+sit,2021-12-03 11:18:03,PUT,http://0.0.0.0:4010/UpdateCamera
+amet,2021-12-04 12:22:43,DELETE,http://0.0.0.0:4010/DeleteCamera
+consectetur,2021-12-05 13:27:23,POST,http://0.0.0.0:4010/SetCamera
+adipiscing,2021-12-06 14:32:03,GET,http://0.0.0.0:4010/GetCamera
+elit,2021-12-07 15:36:43,PUT,http://0.0.0.0:4010/UpdateCamera
+sed,2021-12-08 16:41:23,DELETE,http://0.0.0.0:4010/DeleteCamera
+do,2021-12-09 17:46:03,POST,http://0.0.0.0:4010/SetCamera
+eiusmod,2021-12-10 18:50:43,GET,http://0.0.0.0:4010/GetCamera
