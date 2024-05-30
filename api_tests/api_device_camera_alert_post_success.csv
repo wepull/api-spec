@@ -1,0 +1,11 @@
+jetson_uuid^|^camera_id^|^status^|^timestamp
+d290f1ee-6c54-4b01-90e6-d701748f0851^|^9a48824e-829d-11ee-b962-0242ac120002^|^offline^|^2023-11-29T09:12:33.001Z
+f6db2f6c-5d3c-4f4b-9e9e-d9d1f37d1f30^|^4b8d1e2f-7d1a-429a-8ee2-5e1d1f1a1f1b^|^online^|^2023-11-29T09:32:33.001Z
+a6c3f1aa-4d5c-4c3a-8e8a-d9a1d37d1f32^|^5c8d1c2f-6d1b-429b-8ec2-5e1d1f1a1f1c^|^offline^|^2023-11-29T09:52:33.001Z
+b7d4f1ab-5e6c-4d4b-9e9b-d9b1d37d1f33^|^6d8d1d2f-7d1c-429c-8ed2-5e1d1f1a1f1d^|^online^|^2023-11-29T10:12:33.001Z
+c8e5f1ac-6f7c-4e5a-8e8c-d9c1d37d1f34^|^7e8d1e2f-8d1d-429d-8ee2-5e1d1f1a1f1e^|^offline^|^2023-11-29T10:32:33.001Z
+d9f6f1ad-7g8c-4f6b-9e9d-d9d1d37d1f35^|^8f8d1f2f-9d1e-429e-8ef2-5e1d1f1a1f1f^|^online^|^2023-11-29T10:52:33.001Z
+eag7f1ae-8h9c-5g7c-9e9e-d9e1d37d1f36^|^9g8d1g2f-ad1f-429f-8eg2-5e1d1f1a1f1g^|^offline^|^2023-11-29T11:12:33.001Z
+fbh8f1af-9iac-6h8d-9e9f-d9f1d37d1f37^|^ah9d1h2f-bd1g-429g-8eh2-5e1d1f1a1f1h^|^online^|^2023-11-29T11:32:33.001Z
+gci9f1ag-ajbd-7i9e-9e9g-d9g1d37d1f38^|^biad1i2f-cd1h-429h-8ei2-5e1d1f1a1f1i^|^offline^|^2023-11-29T11:52:33.001Z
+hdjaf1ah-bkce-8jaf-9e9h-d9h1d37d1f39^|^cjbe1j2f-dd1i-429i-8ej2-5e1d1f1a1f1j^|^online^|^2023-11-29T12:12:33.001Z
